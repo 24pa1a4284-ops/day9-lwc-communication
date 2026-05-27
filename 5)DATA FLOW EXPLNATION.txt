@@ -1,0 +1,14 @@
+ 5)DATA FLOW EXPLNATION
+ A)  
+  
+    UI
+↓
+Validation
+↓
+Flow
+↓
+Apex
+↓
+Database
+↓
+Notification

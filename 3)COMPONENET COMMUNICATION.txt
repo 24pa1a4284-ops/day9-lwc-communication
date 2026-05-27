@@ -1,0 +1,8 @@
+ 3)COMPONENET COMMUNICATION
+ A)Components communicate using parent-child communication, events, and properties.
+
+Student dashboard communicates with registration components.
+
+Faculty dashboard communicates with attendance and course modules.
+
+Admin dashboard communicates with management components.

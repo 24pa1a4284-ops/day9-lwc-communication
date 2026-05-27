@@ -1,0 +1,5 @@
+ 4)AURA VS LWC
+
+A)Salesforce moved from Aura Components to Lightning Web Components
+ because LWC provides better performance, faster rendering, modern
+ JavaScript support, reusability, scalability, and easier maintenance.

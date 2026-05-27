@@ -1,0 +1,6 @@
+ 
+
+6)REFLECTION
+A)Enterprise applications need modular architecture because
+ reusable components improve maintenance, scalability, debugging
+, and application development speed.

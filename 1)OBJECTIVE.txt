@@ -1,0 +1,5 @@
+ 1)OBJECTIVE 
+
+A)The objective of this project is to understand Lightning Web
+ Component communication, data flow, event-driven behavior, 
+and modular dashboard architecture in Salesforce.
